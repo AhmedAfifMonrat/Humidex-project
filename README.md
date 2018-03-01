@@ -1,0 +1,2 @@
+# Humidex-project
+An ambient working environment is required in a public building to smoothly run a system. To measure and control the comfort zone there are several variables that should be observed and controlled over time. In order to improve the productivity and comfort level for the person working in the AIPL building, a monitor system needs to be established that displays and calculates indices of comfort at work using variable such as heat, humidity and wave of the ambient air particularly in room number 108.
